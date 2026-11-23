@@ -290,7 +290,7 @@ B.Tech CSE      Graduated          DevOps Trainee          AWS CCP + OCI DevOps
 
 <p align="center">
   <a href="https://linkedin.com/in/arif-awsengineer"><img src="https://img.shields.io/badge/LinkedIn-arif--awsengineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shaikmahammadarif98@gmail.com"><img src="https://img.shields.io/badge/Gmail-shaikmahammadarif98-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:arif.cloud.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-arif.cloud.engineer-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Automate everything. Break nothing. Ship fast."</i> ⚡</p>
