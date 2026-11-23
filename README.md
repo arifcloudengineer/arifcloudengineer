@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/arif-awsengineer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shaikmahammadarif98@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:arif.cloud.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📍_Hyderabad-Open_to_Bangalore-1f6feb?style=for-the-badge" />
 </p>
 
