@@ -19,11 +19,6 @@
   <img src="https://img.shields.io/badge/Hyderabad-Open_to_Bangalore-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifcloudengineer&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/arifcloudengineer?label=Followers&style=for-the-badge&logo=github&color=181717" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
